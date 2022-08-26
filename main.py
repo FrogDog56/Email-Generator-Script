@@ -9,7 +9,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-from colorama import Back, Fore
 
 url = 'https://proton.me/pricing'
 length = 8
